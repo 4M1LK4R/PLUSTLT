@@ -1,9 +1,9 @@
 {
   "packagerPort": 19001,
-  "packagerPid": 14812,
-  "expoServerNgrokUrl": "https://pc-zyk.anonymous.plustlt.exp.direct",
-  "packagerNgrokUrl": "https://packager.pc-zyk.anonymous.plustlt.exp.direct",
-  "ngrokPid": 9544,
+  "packagerPid": 16504,
+  "expoServerNgrokUrl": "https://pc-zyk.amilkar.plustlt.exp.direct",
+  "packagerNgrokUrl": "https://packager.pc-zyk.amilkar.plustlt.exp.direct",
+  "ngrokPid": 7916,
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "webpackServerPort": null
